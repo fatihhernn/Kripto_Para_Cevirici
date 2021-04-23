@@ -6,6 +6,9 @@
 - **Retrofit ve RxJava kullanımı**
 - **RecyclerView Layout kullanarak MainActivity'de çekilen verileri gösterdim**
 - **RxJava ve Composite kullanımı**
+- **[Notion'da tuttuğum notlarım](https://www.notion.so/fatihhernn/Kotlin-Retrofit-ile-Kripto-Para-Uygulamas-2af83d0df93448abbc80e583c533070e) bu linkte içerik hakkında fikir sahibi olabilirsiniz.**
+
+
 
 
 <table>
