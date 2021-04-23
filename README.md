@@ -1,9 +1,9 @@
 <p align="center"> Merhaba 👋🏾 Github sayfama hoşgeldin!  ☁️ </p>
 
-<h1 align="center">Kripto Para Uygulaması (KOTLIN) </h1> 
+<h1 align="center">Retrofit ile Kripto Para Çevirici (KOTLIN) </h1> 
 
 ## ⭐ Neler Yaptım
-- **Retrofit ve RxJava kullanımı**
+- **Internetten dataları çekmek için Retrofit ve RxJava kullanımı**
 - **RecyclerView Layout kullanarak MainActivity'de çekilen verileri gösterdim**
 - **RxJava ve Composite kullanımı**
 - **[Notion'da tuttuğum notlarım](https://www.notion.so/fatihhernn/Kotlin-Retrofit-ile-Kripto-Para-Uygulamas-2af83d0df93448abbc80e583c533070e) bu linkte içerik hakkında fikir sahibi olabilirsiniz.**
