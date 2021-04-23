@@ -13,18 +13,7 @@
   
   <tr>
     <td>
-           <img src="https://github.com/fatihhernn/kotlinSeyehatListem/blob/master/ornek%20(1).jpeg" width="600" height="200" alt=".netProject">
+           <img src="https://github.com/fatihhernn/Retrofit_rxJava_Kotlin/blob/master/WhatsApp%20Image%202021-04-23%20at%2016.44.48.jpeg" width="600" height="200" alt="kotlin">
    </td>
-   <td>
-           <img src="https://github.com/fatihhernn/kotlinSeyehatListem/blob/master/ornek%20(2).jpeg" width="600" alt=".netProject">
-   </td>
-   <td>
-           <img src="https://github.com/fatihhernn/kotlinSeyehatListem/blob/master/ornek%20(3).jpeg" width="600" alt=".netProject">
-   </td>
-   <td>
-           <img src="https://github.com/fatihhernn/kotlinSeyehatListem/blob/master/ornek%20(4).jpeg" width="600" alt=".netProject">
-   </td>
-   <td>
-           <img src="https://github.com/fatihhernn/kotlinSeyehatListem/blob/master/ornek%20(5).jpeg" width="600" alt=".netProject">
-   </td>
+  
  </table>
